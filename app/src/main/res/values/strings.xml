@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">screHW</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_1">add 1</string>
+    <string name="subtract_2">subtract 2</string>
+    <string name="add_4">add 4</string>
+    <string name="_0">0</string>
+    <string name="button">Button</string>
+</resources>
